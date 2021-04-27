@@ -47,3 +47,5 @@ func _on_result(res : bool, text : String) -> void :
 
 
 ```
+
+@godotengine @m4gr3d Godot Android plugin for the Google In App Review. please see here
