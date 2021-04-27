@@ -1,0 +1,2 @@
+include ':godot-google-in-app-review'
+rootProject.name = "Godot Google In App Review"
